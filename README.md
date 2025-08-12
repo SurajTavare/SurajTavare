@@ -50,7 +50,7 @@ A Flutter shoes shopping app demonstrating efficient state management to handle 
 
 ---
 
-## 🤝 Connect with Me
+<!-- ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajtavare1111@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajtavare1111@gmail.com) -->
