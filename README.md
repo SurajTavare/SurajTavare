@@ -36,7 +36,7 @@ Chrome extension that extracts, summarizes, translates and lets you download You
 **Tech:** Python (Flask), JavaScript, HTML, CSS  
 
 
----
+
 
 <!-- ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
