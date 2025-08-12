@@ -35,18 +35,6 @@ Flutter app with secure Appwrite login, task manager with notifications, offline
 Chrome extension that extracts, summarizes, translates and lets you download YouTube transcripts and videos.  
 **Tech:** Python (Flask), JavaScript, HTML, CSS  
 
-### 📇 Contact App  
-Flutter app to manage contacts with add, update, delete, favorites and direct calling.  
-**Tech:** Flutter, Sqflite, flutter_phone_direct_caller  
-
-
-### 📝  Notes App
-A simple CRUD notes application using SQLite for local storage.  
-**Tech:** Flutter, Sqflite  
-
-### 👟 Shoes Shop App  
-A Flutter shoes shopping app demonstrating efficient state management to handle cart, product filters, and user interactions smoothly.  
-**State Management:** Provider   
 
 ---
 
