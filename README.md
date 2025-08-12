@@ -24,29 +24,33 @@
 
 ## 📌 Featured Projects
 ### 📱 Women Safety App
-A Flutter app with SOS alerts, live location sharing, and emergency contact features.  
+A Flutter app with SOS alerts, live location sharing and emergency contact features.  
 **Tech:** Flutter, Firebase, Google Maps API  
-[🔗 View Repository](https://github.com/SurajTavare/women-safety-app)
 
-### 📝 Flutter Notes App
+### 📊 Personal Dashboard  
+Flutter app with secure Appwrite login, task manager with notifications, offline notes (sqflite), real-time weather, news by category and movie search by genre. 
+**Tech:** Flutter, Appwrite, Firebase (Cloud Messaging), SQLite, Movies API, Weather API  
+
+### 📝 YouTube Transcript Summarizer  
+Chrome extension that extracts, summarizes, translates and lets you download YouTube transcripts and videos.  
+**Tech:** Python (Flask), JavaScript, HTML, CSS  
+
+### 📇 Contact App  
+Flutter app to manage contacts with add, update, delete, favorites and direct calling.  
+**Tech:** Flutter, Sqflite, flutter_phone_direct_caller  
+
+
+### 📝  Notes App
 A simple CRUD notes application using SQLite for local storage.  
-**Tech:** Flutter, Sqflite, Provider  
-[🔗 View Repository](https://github.com/SurajTavare/flutter-notes-app)
+**Tech:** Flutter, Sqflite  
 
-### 🎬 Movies App
-Fetches movie data from API with search and filtering.  
-**Tech:** Flutter, REST API, Provider  
-[🔗 View Repository](https://github.com/SurajTavare/flutter-movies-app)
-
----
-
-## 📊 GitHub Stats
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurajTavare&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajTavare&layout=compact&theme=tokyonight)
+### 👟 Shoes Shop App  
+A Flutter shoes shopping app demonstrating efficient state management to handle cart, product filters, and user interactions smoothly.  
+**State Management:** Provider   
 
 ---
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajtavare1111@gmail.com)
